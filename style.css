@@ -1,0 +1,107 @@
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    margin: 0;
+    color: #181b1c;
+    background-color: #FAEDCB;
+    line-height: 1.6;
+}
+
+header{
+    background-color: #89B0AE ;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #181b1c;
+    font-size: 45px;
+}
+
+h2{
+    color: #E07A5F;
+}
+
+a{
+    font-size: 20px; 
+    color: #FAEDCB;
+}
+
+nav{
+    background-color: #E07A5F;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px; 
+
+}
+
+main{
+    text-align: left;
+    color: #181b1c;
+    padding: 20px 300px;
+}
+
+.catTitle{
+    text-align: center;
+
+}
+
+footer{
+    text-align: center;
+    background-color:#89B0AE ;
+    color: #181b1c;
+    padding: 10px;
+
+}
+
+.cats{
+    display: flex;
+}
+
+.cat{
+    margin: 20px auto;
+}
+
+/* ==== ABOUT ME PAGE==== */
+.idex-first-row{
+    display: flex;
+}
+
+.index-first-col{
+    margin:0 auto;
+    padding:10px; 
+}
+
+.index-sec-row{
+    display: flex;
+}
+
+.index-sec-col{
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+/* ==== interest pg ==== */
+
+.interest-first-row{
+    display: flex;
+}
+
+.interest-first-col{
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+
+.interest-sec-row{
+    display: flex;
+}
+
+.interest-sec-col{
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+
+/* ==== ideal job pg ==== */
+
+/* ==== personal profil pg ==== */
+
+/* ==== project idea pg ==== */
