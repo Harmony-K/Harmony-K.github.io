@@ -63,7 +63,14 @@ footer{
     margin: 20px auto;
 }
 
-/* ==== ABOUT ME PAGE==== */
+/* ==== welcome PAGE==== */
+.split-titles{
+    background-color: #89B0AE;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
 .idex-first-row{
     display: flex;
 }
