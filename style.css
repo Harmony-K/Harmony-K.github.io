@@ -106,7 +106,7 @@ footer{
     padding: 10px;
 }
 
-/* ==== ideal job pg ==== */
+/* ==== ideal job pg -> meant to have ideal instead of project but i fogort to change ==== */
 
 .project-first-row{
     margin: 0 auto;
@@ -141,7 +141,24 @@ footer{
     padding: 10px 30px;
 }
 
-
 /* ==== personal profil pg ==== */
+
+.profile-one-row{
+    display: flex;
+}
+
+.profile-first-col{
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+
+.profile-sec-row{
+    display: flex;
+}
+
+.profile-sec-col{
+    margin: 0 auto;
+    padding: 10px 30px;
+}
 
 /* ==== project idea pg ==== */
