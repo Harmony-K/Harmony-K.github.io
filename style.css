@@ -103,7 +103,10 @@ footer{
 }
 
 .ref-list{
-    text-align: center;
+    text-align: left;
+    margin: 0px 300px;
+    line-height: 1.8;
+    padding: 10px;
 }
 
 /* ==== ideal job pg ==== */
