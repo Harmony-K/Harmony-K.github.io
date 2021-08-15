@@ -162,3 +162,21 @@ footer{
 }
 
 /* ==== project idea pg ==== */
+.projectpg{
+    display: flex;
+}
+.col1{
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.col2{
+    padding: 15px;
+    margin: 0 auto;
+    border-left: solid #E07A5F 2px;
+}
+
+.col11{
+    padding: 0 0 40px 0;
+
+}
