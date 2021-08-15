@@ -94,13 +94,11 @@ footer{
 }
 
 .interest-sec-row{
-    display: flex;
+    margin: 0 auto;
+    padding: 10px 200px;
 }
 
-.interest-sec-col{
-    margin: 0 auto;
-    padding: 10px 30px;
-}
+
 
 .ref-list{
     text-align: left;
