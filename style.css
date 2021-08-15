@@ -99,7 +99,6 @@ footer{
 }
 
 
-
 .ref-list{
     text-align: left;
     margin: 0px 300px;
@@ -108,6 +107,40 @@ footer{
 }
 
 /* ==== ideal job pg ==== */
+
+.project-first-row{
+    margin: 0 auto;
+    padding: 10px 250px;
+}
+
+.project-sec-row{
+    display: flex;
+}
+
+.project-sec-col{
+    padding: 10px;
+    margin: 10px;
+    border: solid 4px #89B0AE;
+    text-align: center;
+}
+
+
+.project-third-col{
+    padding: 10px;
+    margin: 20px 300px;
+    border: solid 4px #E07A5F;
+    text-align: center;
+}
+
+.project-four-row{
+    display: flex;
+}
+
+.project-four-col{
+    margin: 0 auto;
+    padding: 10px 30px;
+}
+
 
 /* ==== personal profil pg ==== */
 
