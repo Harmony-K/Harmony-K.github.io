@@ -64,12 +64,6 @@ footer{
 }
 
 /* ==== welcome PAGE==== */
-.split-titles{
-    background-color: #89B0AE;
-    text-align: center;
-    margin: 0 auto;
-    padding: 10px;
-}
 
 .idex-first-row{
     display: flex;
@@ -106,6 +100,10 @@ footer{
 .interest-sec-col{
     margin: 0 auto;
     padding: 10px 30px;
+}
+
+.ref-list{
+    text-align: center;
 }
 
 /* ==== ideal job pg ==== */
